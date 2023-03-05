@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Hi  with id ${ EMPID } your registration successfully done</h1>
+<h1> Hi with id ${EMPID} your registration successfully done</h1>
 </body>
 </html>
